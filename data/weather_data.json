@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": -38.5108,
+        "lat": -12.9711
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 298.49,
+        "feels_like": 298.8,
+        "temp_min": 298.49,
+        "temp_max": 298.49,
+        "pressure": 1019,
+        "humidity": 66,
+        "sea_level": 1019,
+        "grnd_level": 1019
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6.26,
+        "deg": 105,
+        "gust": 7.34
+    },
+    "clouds": {
+        "all": 2
+    },
+    "dt": 1785719286,
+    "sys": {
+        "country": "BR",
+        "sunrise": 1785660815,
+        "sunset": 1785702415
+    },
+    "timezone": -10800,
+    "id": 3450554,
+    "name": "Salvador",
+    "cod": 200
+}
